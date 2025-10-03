@@ -15,7 +15,6 @@ To get started with the schema and queries, follow the instructions provided bel
 To get started with this project → install **MySQL** on your system → download the final SQL file from this repository → open it in **MySQL Workbench** → run the file to create the full database with all tables, data, views, and queries → once set up, run the queries to explore the business insights → finally, access the **ER Diagram** by using the *Reverse Engineer* option in MySQL Workbench after loading the file.  
 
 ## Course Description  
-This project was completed as part of **BISM7206 – Database Design and Implementation**.  
 The course focused on relational modelling, SQL, and database applications in business.  
 Key skills included designing data models, applying integrity constraints, retrieving insights using SQL, and understanding database concepts such as security, concurrency, and data integrity.  
 
