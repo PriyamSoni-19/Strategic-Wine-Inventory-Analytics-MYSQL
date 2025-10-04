@@ -32,6 +32,16 @@ Key skills included designing data models, applying integrity constraints, retri
 The **SQL Vineyard Case Study** was a **group project** where we transformed messy business data into a structured relational database.  
 It included schema design, data cleaning, analytical queries, and sustainability reporting — demonstrating how SQL can deliver valuable insights for business decision-making.  
 
+## ER Diagram Overview
+
+This **Entity Relationship Diagram** represents the integrated data structure of a winery management system.
+
+It maps the relationships between key business entities — **vineyards, grape varieties, wine production, suppliers, employees, transport, and inventory**.  
+Each table captures specific operational details such as **vineyard locations, grape harvests, supplier orders, and product bottling**.
+
+Together, these relationships provide a unified view of the winery’s operations — from **grape cultivation to finished wine distribution** — ensuring efficient **data management, traceability, and process control** across the entire supply chain.
+
+
 ## Value  
 This project shows how SQL can be used to turn messy data into something useful and reliable.  
 It goes beyond just building a database — it’s about creating insights that help in real business decisions.  
